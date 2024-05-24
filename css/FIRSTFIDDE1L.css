@@ -1,0 +1,464 @@
+ /* nav bar  */
+
+ .weblogo{
+    width: 65px;
+ }
+
+ .navbar{
+    background: #00000082 !important;
+ }
+
+ .navbar-nav li {
+    padding: 0 10px;
+ }
+
+ .navbar-nav li a{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+ }
+
+ .moblogo{
+    display: none;
+ }
+
+
+
+
+
+ /* nav bar end */
+  
+  
+  
+  
+  
+  /* home page css */
+  .a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.img123 {
+    width: 80%;
+}
+
+.c {
+    background-image: url(../image/img\ background.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    padding-top: 100px;
+    color: white;
+}
+
+.e {
+    color: white;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+
+}
+
+.f {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.g {
+    background-image: url(../image/ffback2.png);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.h {
+    line-height: 35px;
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    /* padding-top: 100px; */
+    text-align: justify;
+}
+
+.i {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: white;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center
+}
+
+.aaa{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.text-light{
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-light-rgb), var(--bs-text-opacity)) !important;
+
+}
+
+
+.v{
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+   
+
+}
+.u{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer {
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+
+footer .img123 {
+    width: 50%;
+    margin-top: 30px;
+}
+
+/* home page css end */
+
+
+/* about css */
+
+.ccc{
+    background-image: url(../image/ffback3.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.aa{
+    font-size: 1.5cm;
+    margin-top: 4cm;
+    font-family: prague;
+    text-align: center;
+    
+}
+
+.bb{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px
+}
+
+.cc{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.dd{
+    background-image: url(../image/gamebanner.jpg);
+    width: 100%;
+}
+.ee{
+    padding: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: #fff;
+    margin-top: 100px;
+}
+.ff{
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: white;
+    margin-bottom: 100px;
+}
+.ex{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.gg{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+.hh{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px
+}
+.ii{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify
+}
+
+/* about css end */
+
+
+
+
+
+/* brand css  */
+
+.ccc{
+    background-image: url(../image/brands.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ba{
+    font-size: 1.5cm;
+    margin-top: 4cm;
+    font-family: prague
+}
+
+
+/* brand css end  */
+
+
+/* team css  */
+.cccc{
+    background-image: url(../image/new-our-team.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ta{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.photo1{
+    background-image: url(../image/YPAshok.jpg); 
+     width: 100%;
+    height: 8.8cm; 
+     background-position: center;
+    background-size: cover;
+}
+
+.photo2{
+background-image: url(../image/B.R.-Sachdeva.jpg);
+width: 100%;
+height: 8.8cm;
+background-position: center;
+background-size: cover;
+}
+
+.photo3 {
+    background-image: url(../image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photo4{
+    background-image: url(../image/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo5 {
+    background-image: url(../image/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+/* team  css  end  */
+
+
+/* contect css    */
+
+.ccccc {
+    background-image: url(../image/CONTACT-US.jpg);
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.send {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+
+.aaa{
+    font-family: unset;
+    font-size: 1.5rem;
+    /* margin-bottom: 0.5rem; */
+    font-weight: lighter;
+    line-height: 1.2;
+}
+
+.bbb{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    /* margin-top: 20px; */
+    font-weight: lighter;
+    padding-bottom: 2cm
+}
+
+.ddd{
+    font-family: unset;
+    font-size: 1.5rem;
+    /* margin-bottom: 0.5rem; */
+    font-weight: lighter;
+    line-height: 1.2
+}
+
+/* contect css  end  */
+
+/* logo css */
+
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: rgb(248, 248, 126) !important;
+    }
+
+    .img123 {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
+/* logo css end */
+
+
+.para{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+.paraa{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+   font-weight: lighter;
+}
+.paraaa{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+
+
+.ccccd {
+    background-image: url(../image/press-new-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover
+}
+
+
+
+
+
+
+
+
+
+/* carrer css */
+.apply{
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 37px;
+    font-weight: 600;
+}
+.content{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 100;
+}
+.form{
+    margin-bottom: 10px;
+}
+
+.ccccac {
+    background-image: url(../image/new-careers-1.jpg);
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+

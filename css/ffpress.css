@@ -1,0 +1,245 @@
+
+/* nav css */
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.moblogo {
+    display: none;
+}
+
+
+
+/* nav css  end */
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+    font-size: large;
+}
+
+.img123 {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.c {
+    background-image: url(../image/WhatsApp\ Image\ 2024-05-09\ at\ 18.57.10_64eddf77.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 80px;
+    color: white;
+}
+
+.e {
+    color: white;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.m {
+    background-image: url(../image/WhatsApp\ Image\ 2024-05-09\ at\ 20.10.20_a0db50d2.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.f {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+footer.n {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.v {
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+
+
+}
+
+.u {
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.aaa {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.bb {
+    background-image: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.cc {
+    background-image: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.dd {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+    color: white;
+    margin-top: 120px;
+}
+
+.ee {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+    color: white;
+}
+
+.ff {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+    font-size: large;
+}
+
+.image {
+    width: 400px;
+    box-shadow: 4px 4px 4px;
+}
+
+.gg {
+    background-image: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.fff {
+    background-image: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ccc {
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.hh {
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin-top: -300px;
+}
+
+.ii {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-top: -298px;
+    margin-top: -90px;
+    padding-left: 151px;
+    color: black;
+}
+
+.img23 {
+    background: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: rgba(237, 237, 9, 0.888) !important;
+    }
+
+    .img123 {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
